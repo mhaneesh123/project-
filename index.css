@@ -1,0 +1,42 @@
+/* Custom styles for the sidebar */
+#top{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-stretch: semi-expanded;
+    padding-bottom: 10px;
+    padding-top:10px;
+    
+  }
+.sidebar {
+    background-color: #f8f9fa; /* Light background color */
+    border-right: 1px solid #dee2e6; /* Optional: add a border to the right */
+  }
+  
+  /* Custom styles for active nav item */
+  .nav-item .nav-link.active {
+    background-color: #007bff; /* Example background color */
+    color: white; /* Ensure text is readable */
+    border-radius: 0.25rem; /* Optional: rounded corners */
+    border: 1px solid black;
+  }
+ 
+  
+  /* Remove underline from links */
+  .nav-link {
+    text-decoration: none;
+  }
+ .graph
+ {
+    padding-left: 300px;
+    
+ }
+ img
+ {
+    width: 1050px;
+    height: 600px;
+
+ }
+ div,html
+ {
+    background-color:white;
+ }
